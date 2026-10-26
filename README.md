@@ -12,6 +12,4 @@ statsstreak
 🗳️ online-voting-system- — Secure e-voting
 
 
-Profile views
 
-snake animation
